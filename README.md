@@ -1,6 +1,6 @@
-# Conf.app
+# Conferetti 🎉
 
-Hey! 👋 So I built this thing called Conf.app, a social network for conferences. It's still a work in progress, so suggestions and PRs welcome!
+👋 So I built this thing called confsocial, a social network for conferences. It's still a work in progress, so suggestions and PRs welcome!
 
 ## What's the deal?
 
