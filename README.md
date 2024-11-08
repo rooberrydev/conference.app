@@ -1,6 +1,3 @@
-Code
-CopyInsert
-
 # Conf.app
 
 Hey! 👋 So I built this thing called Conf.app, a social network for conferences. It's still a work in progress, so suggestions and PRs welcome!
