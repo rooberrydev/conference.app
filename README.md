@@ -3,7 +3,7 @@ CopyInsert
 
 # Conf.app
 
-Hey! 👋 So I built this thing called Conf.app, a social network for conferences. It's still a work in progress, but I'm pretty stoked about it.
+Hey! 👋 So I built this thing called Conf.app, a social network for conferences. It's still a work in progress, so suggestions and PRs welcome!
 
 ## What's the deal?
 
