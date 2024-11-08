@@ -1,4 +1,4 @@
-# Conf.app
+# Conferetti 🎉
 
 👋 So I built this thing called confsocial, a social network for conferences. It's still a work in progress, so suggestions and PRs welcome!
 
